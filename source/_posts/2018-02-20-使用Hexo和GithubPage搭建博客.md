@@ -9,6 +9,8 @@ tags:
 2. node.js
 3. 通过npm全局安装hexo `npm install hexo -g`
 
+<!-- more -->
+
 # github准备
 1. 创建一个仓库，仓库名称为`yourname.github.io`，比如你注册github时的用户名是12345，那么此时仓库的名称就应该是 `12345.github.io`
 2. 通过gitbash生成ssh-key，在gitbash中键入`ssh-keygen -t rsa -C youremail@example.com`
