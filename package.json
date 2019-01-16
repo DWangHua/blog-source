@@ -6,7 +6,9 @@
     "clean": "./node_modules/.bin/hexo clean",
     "generate": "./node_modules/.bin/hexo generate",
     "deploy": "./node_modules/.bin/hexo deploy",
-    "listinfo": "./node_modules/.bin/hexo list"
+    "listinfo": "./node_modules/.bin/hexo list",
+    "newdraft": "./node_modules/.bin/hexo new draft",
+    "newpost": "./node_modules/.bin/hexo new post"
   },
   "hexo": {
     "version": "3.5.0"
